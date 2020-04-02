@@ -1,0 +1,161 @@
+body{
+  margin:0;
+  background-color: #edffea;
+  font-family: 'Do Hyeon', sans-serif;
+  text-align: center;
+  font-size: 1.2em;
+}
+hr{
+  border: dotted green 6px;
+  border-bottom: none;
+  width:3%;
+}
+.internet{
+  width:22%;
+  float: right;
+  margin-left: 30px;
+}
+.music{
+  width:20%;
+  float: right;
+  margin-left: 30px;
+}
+.sing{
+  width:20%;
+  float: left;
+  margin-right: 30px;
+}
+h3{
+  color:#eb4559;
+}
+h2{
+  color:#084177;
+  font-family: 'Do Hyeon', sans-serif;
+  font-family: 'Spicy Rice', cursive;
+  font-family: 'Oleo Script', cursive;
+  line-height: 3;
+}
+p{
+  color:brown;
+}
+.btn {
+	background-color:#44c767;
+  border-radius: 11px;
+	display:inline-block;
+	color:#ffffff;
+  padding: 2px;
+  height:25px;
+  width:130px;;
+	text-decoration:none;
+	text-align:center;
+  margin-bottom: 20px;
+}
+.btn:hover {
+	background-color:#5deb11;
+}
+.profile{
+  padding:1em;
+  width:50%;
+  margin:auto;
+  line-height: 2;
+  text-align: left;
+}
+.ProfPic{
+  border-radius: 100px;
+  float:right;
+  margin-right: 45px;
+  width:128px;
+  height:130px;
+}
+.main{
+  color:#235952;
+  font-style: normal;
+  font-size:2rem;
+  width:15%;
+  float:left;
+  margin-left: 380px;
+  font-weight: normal;
+  margin-top: 45px;
+}
+.bar{
+  background-color: #1eb2a6;
+  width: 100%;
+  height:130px;
+}
+.bottom-container{
+  background-color: #1eb2a6;
+  width: 100%;
+  padding: 50px 0 20px;
+}
+.skill-row1{
+  width:50%;
+  margin:50px auto;
+  text-align: left;
+}
+.skill-row2{
+  width:50%;
+  margin:130px auto;
+  text-align: left;
+}
+a{
+  text-decoration: none;
+}
+.fl{
+  text-decoration: none;
+  margin-right: 20px;
+}
+.one{
+  color:#000000;
+  font-size:20px;
+  border-radius: 25px;
+  border-color: black;
+  border:solid;
+  float:left;
+  padding:10px;
+  margin-top: 42px;
+  margin-left: 35px;
+}
+.two{
+  color:#000000;
+  font-size:20px;
+  border-radius: 25px;
+  border-color: black;
+  border:solid;
+  float:left;
+  padding:10px;
+  margin-top: 42px;
+  margin-left: 35px;
+}
+.third{
+  color:#000000;
+  font-size:20px;
+  border-radius: 25px;
+  border-color: black;
+  border:solid;
+  float:left;
+  padding:10px;
+  margin-top: 42px;
+  margin-left: 35px;
+}
+.fourth{
+  color:#000000;
+  font-size:20px;
+  border-radius: 25px;
+  border-color: black;
+  border:solid;
+  float:left;
+  padding:10px;
+  margin-top: 42px;
+  margin-left: 35px;
+}
+.fifth{
+  color:#000000;
+  font-size:20px;
+  border-radius: 25px;
+  border-color: black;
+  border:solid;
+  float:left;
+  padding:10px;
+  margin-top: 42px;
+  margin-left: 35px;
+}
